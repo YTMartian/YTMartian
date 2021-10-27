@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![YTMartian's Github Stats](https://github-readme-stats.vercel.app/api?username=YTMartian&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YTMartian&hide=TeX&layout=compact)
+![YTMartian's Github Stats](https://github-readme-stats.vercel.app/api?username=YTMartian&count_private=true&theme=cobalt&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YTMartian&hide=TeX&layout=compact&theme=cobalt)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rusty-sj.rusty-sj)
