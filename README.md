@@ -20,4 +20,8 @@ Here are some ideas to get you started:
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rusty-sj.rusty-sj)
 
-[cobalt_repo]: https://github-readme-stats.vercel.app/api/pin/?username=YTMartian&repo=YTMartian-Blog&cache_seconds=86400&theme=cobalt
+| | | |
+| :--: | :--: | :--: |
+|![YTMartian-Blog][YTMartian-Blog] ||  |
+
+[YTMartian-Blog]: https://github-readme-stats.vercel.app/api/pin/?username=YTMartian&repo=YTMartian-Blog&cache_seconds=86400&theme=cobalt
