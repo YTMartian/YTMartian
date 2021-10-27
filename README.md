@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YTMartian&hide=TeX&layout=compact&theme=cobalt)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rusty-sj.rusty-sj)
+
+[cobalt_repo]: https://github-readme-stats.vercel.app/api/pin/?username=YTMartian&repo=YTMartian-Blog&cache_seconds=86400&theme=cobalt
